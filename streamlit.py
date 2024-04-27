@@ -11,8 +11,11 @@ url_youtube = "https://www.youtube.com/watch?v=RircTZnd3Zg"
 st.video(url_youtube)
 
 st.header("Data set")
-df = pd.read_csv("proyecto_data_analytics/src/streamlit/df_corregido.csv") 
-df.columns=["year","country","city","stage","home_team","away_team","home_score","away_score","outcome","winning_team","losing_team","date", "month", "dayofweek"] 
+df=pd.read_csv("C:/Users/cesar/apps/data-analytics/data/raw/wcmatches.csv") 
+df.columns=["year","country","city","stage","home_team","away_team","home_score","away_score","outcome","win_conditions","winning_team","losing_team","date", "month", "dayofweek"] 
+df.drop(columns=['win_conditions'], inplace=True)
+df.loc[73, 'stage'] = 'Final'
+df.replace({'away_team': 'West Germany', 'home_team': 'West Germany', 'winning_team': 'West Germany', 'losing_team':'West Germany'}, 'Germany', inplace=True)
 st.dataframe(df)
 print('\n')
 
