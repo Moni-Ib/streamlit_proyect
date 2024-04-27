@@ -13,7 +13,7 @@ pandas
 numpy
 matplotlib
 seaborn
-
+scikit-learn
 
 # backwards compatibility
 pathlib2
