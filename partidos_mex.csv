@@ -1,0 +1,58 @@
+year,country,city,stage,home_team,away_team,home_score,away_score,outcome,winning_team,losing_team,date,month,dayofweek,score_mexico,opponent_mex
+1930,Uruguay,Montevideo,Group 1,France,Mexico,4,1,H,France,Mexico,1930-07-13,Jul,Sunday,1,France
+1930,Uruguay,Montevideo,Group 1,Chile,Mexico,3,0,H,Chile,Mexico,1930-07-16,Jul,Wednesday,0,Chile
+1930,Uruguay,Montevideo,Group 1,Argentina,Mexico,6,3,H,Argentina,Mexico,1930-07-19,Jul,Saturday,3,Argentina
+1950,Brazil,Rio de Janeiro,Group 1,Brazil,Mexico,4,0,H,Brazil,Mexico,1950-06-24,Jun,Saturday,0,Brazil
+1950,Brazil,Porto Alegre,Group 1,Mexico,Yugoslavia,1,4,A,Yugoslavia,Mexico,1950-06-28,Jun,Wednesday,1,Yugoslavia
+1950,Brazil,Porto Alegre,Group 1,Mexico,Switzerland,1,2,A,Switzerland,Mexico,1950-07-02,Jul,Sunday,1,Switzerland
+1954,Switzerland,Geneva,Group 1,Brazil,Mexico,5,0,H,Brazil,Mexico,1954-06-16,Jun,Wednesday,0,Brazil
+1954,Switzerland,Geneva,Group 1,France,Mexico,3,2,H,France,Mexico,1954-06-19,Jun,Saturday,2,France
+1958,Sweden,Solna,Group 3,Sweden,Mexico,3,0,H,Sweden,Mexico,1958-06-08,Jun,Sunday,0,Sweden
+1958,Sweden,Solna,Group 3,Mexico,Wales,1,1,D,,,1958-06-11,Jun,Wednesday,1,Wales
+1958,Sweden,Sandviken,Group 3,Hungary,Mexico,4,0,H,Hungary,Mexico,1958-06-15,Jun,Sunday,0,Hungary
+1962,Chile,Viña del Mar,Group 3,Brazil,Mexico,2,0,H,Brazil,Mexico,1962-05-30,May,Wednesday,0,Brazil
+1962,Chile,Viña del Mar,Group 3,Mexico,Spain,0,1,A,Spain,Mexico,1962-06-03,Jun,Sunday,0,Spain
+1962,Chile,Viña del Mar,Group 3,Czechoslovakia,Mexico,1,3,A,Mexico,Czechoslovakia,1962-06-07,Jun,Thursday,3,Czechoslovakia
+1966,England,London,Group 1,France,Mexico,1,1,D,,,1966-07-13,Jul,Wednesday,1,France
+1966,England,London,Group 1,England,Mexico,2,0,H,England,Mexico,1966-07-16,Jul,Saturday,0,England
+1966,England,London,Group 1,Mexico,Uruguay,0,0,D,,,1966-07-19,Jul,Tuesday,0,Uruguay
+1970,Mexico,Mexico City,Group 1,Mexico,Soviet Union,0,0,D,,,1970-05-31,May,Sunday,0,Soviet Union
+1970,Mexico,Mexico City,Group 1,Mexico,El Salvador,4,0,H,Mexico,El Salvador,1970-06-07,Jun,Sunday,4,El Salvador
+1970,Mexico,Mexico City,Group 1,Mexico,Belgium,1,0,H,Mexico,Belgium,1970-06-11,Jun,Thursday,1,Belgium
+1970,Mexico,Toluca,Quarterfinals,Mexico,Italy,1,4,A,Italy,Mexico,1970-06-14,Jun,Sunday,1,Italy
+1978,Argentina,Rosario,Group 2,Mexico,Tunisia,1,3,A,Tunisia,Mexico,1978-06-02,Jun,Friday,1,Tunisia
+1978,Argentina,Córdoba,Group 2,Germany,Mexico,6,0,H,Germany,Mexico,1978-06-06,Jun,Tuesday,0,Germany
+1978,Argentina,Rosario,Group 2,Mexico,Poland,1,3,A,Poland,Mexico,1978-06-10,Jun,Saturday,1,Poland
+1986,Mexico,Mexico City,Group B,Mexico,Belgium,2,1,H,Mexico,Belgium,1986-06-03,Jun,Tuesday,2,Belgium
+1986,Mexico,Mexico City,Group B,Mexico,Paraguay,1,1,D,,,1986-06-07,Jun,Saturday,1,Paraguay
+1986,Mexico,Mexico City,Group B,Mexico,Iraq,1,0,H,Mexico,Iraq,1986-06-11,Jun,Wednesday,1,Iraq
+1986,Mexico,Mexico City,Round of 16,Mexico,Bulgaria,2,0,H,Mexico,Bulgaria,1986-06-15,Jun,Sunday,2,Bulgaria
+1986,Mexico,Monterrey,Quarterfinals,Mexico,Germany,0,0,A,Germany,Mexico,1986-06-21,Jun,Saturday,0,Germany
+1994,United States,Washington,Group E,Norway,Mexico,1,0,H,Norway,Mexico,1994-06-19,Jun,Sunday,0,Norway
+1994,United States,Orlando,Group E,Mexico,Republic of Ireland,2,1,H,Mexico,Republic of Ireland,1994-06-24,Jun,Friday,2,Republic of Ireland
+1994,United States,Washington,Group E,Italy,Mexico,1,1,D,,,1994-06-28,Jun,Tuesday,1,Italy
+1994,United States,East Rutherford,Round of 16,Mexico,Bulgaria,1,1,A,Bulgaria,Mexico,1994-07-05,Jul,Tuesday,1,Bulgaria
+1998,France,Lyon,Group E,South Korea,Mexico,1,3,A,Mexico,South Korea,1998-06-13,Jun,Saturday,3,South Korea
+1998,France,Bordeaux,Group E,Belgium,Mexico,2,2,D,,,1998-06-20,Jun,Saturday,2,Belgium
+1998,France,Saint-Étienne,Group E,Netherlands,Mexico,2,2,D,,,1998-06-25,Jun,Thursday,2,Netherlands
+1998,France,Montpellier,Round of 16,Germany,Mexico,2,1,H,Germany,Mexico,1998-06-29,Jun,Monday,1,Germany
+2002,Japan,Niigata,Group G,Croatia,Mexico,0,1,A,Mexico,Croatia,2002-06-03,Jun,Monday,1,Croatia
+2002,Japan,Rifu,Group G,Mexico,Ecuador,2,1,H,Mexico,Ecuador,2002-06-09,Jun,Sunday,2,Ecuador
+2002,Japan,Ōita,Group G,Mexico,Italy,1,1,D,,,2002-06-13,Jun,Thursday,1,Italy
+2002,South Korea,Jeonju,Round of 16,Mexico,United States,0,2,A,United States,Mexico,2002-06-17,Jun,Monday,0,United States
+2006,Germany,Nuremberg,Group D,Mexico,Iran,3,1,H,Mexico,Iran,2006-06-11,Jun,Sunday,3,Iran
+2006,Germany,Hanover,Group D,Mexico,Angola,0,0,D,,,2006-06-16,Jun,Friday,0,Angola
+2006,Germany,Gelsenkirchen,Group D,Portugal,Mexico,2,1,H,Portugal,Mexico,2006-06-21,Jun,Wednesday,1,Portugal
+2006,Germany,Leipzig,Round of 16,Argentina,Mexico,2,1,H,Argentina,Mexico,2006-06-24,Jun,Saturday,1,Argentina
+2010,South Africa,Johannesburg,Group A,South Africa,Mexico,1,1,D,,,2010-06-11,Jun,Friday,1,South Africa
+2010,South Africa,Polokwane,Group A,France,Mexico,0,2,A,Mexico,France,2010-06-17,Jun,Thursday,2,France
+2010,South Africa,Rustenburg,Group A,Mexico,Uruguay,0,1,A,Uruguay,Mexico,2010-06-22,Jun,Tuesday,0,Uruguay
+2010,South Africa,Johannesburg,Round of 16,Argentina,Mexico,3,1,H,Argentina,Mexico,2010-06-27,Jun,Sunday,1,Argentina
+2014,Brazil,Natal,Group A,Mexico,Cameroon,1,0,H,Mexico,Cameroon,2014-06-13,Jun,Friday,1,Cameroon
+2014,Brazil,Fortaleza,Group A,Brazil,Mexico,0,0,D,,,2014-06-17,Jun,Tuesday,0,Brazil
+2014,Brazil,Recife,Group A,Croatia,Mexico,1,3,A,Mexico,Croatia,2014-06-23,Jun,Monday,3,Croatia
+2014,Brazil,Fortaleza,Round of 16,Netherlands,Mexico,2,1,H,Netherlands,Mexico,2014-06-29,Jun,Sunday,1,Netherlands
+2018,Russia,Moscow,Group F,Germany,Mexico,0,1,A,Mexico,Germany,2018-06-17,Jun,Sunday,1,Germany
+2018,Russia,Rostov-on-Don,Group F,South Korea,Mexico,1,2,A,Mexico,South Korea,2018-06-23,Jun,Saturday,2,South Korea
+2018,Russia,Ekaterinburg,Group F,Mexico,Sweden,0,3,A,Sweden,Mexico,2018-06-27,Jun,Wednesday,0,Sweden
+2018,Russia,Samara,Round of 16,Brazil,Mexico,2,0,H,Brazil,Mexico,2018-07-02,Jul,Monday,0,Brazil
