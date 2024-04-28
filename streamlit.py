@@ -123,7 +123,7 @@ model.fit(X_train, y_train)
 y_train_pred = model.predict(X_train)
 y_test_pred = model.predict(X_test)
 st.subheader('Oponentes de México')
-df_oponentes = pd.read_csv('C:/Users/cesar/apps/proyecto_data_analytics/proyecto_data_analytics/notebooks/oponentes.csv')
+df_oponentes = pd.read_csv('oponentes.csv')
 st.dataframe(df_oponentes)
 def predecir_goles(oponente):
     new_df = pd.DataFrame({'opponent_mex': [oponente]})
