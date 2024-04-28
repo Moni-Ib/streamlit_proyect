@@ -11,12 +11,12 @@ url_youtube = "https://www.youtube.com/watch?v=RircTZnd3Zg"
 st.video(url_youtube)
 
 st.header("Data set")
-df = pd.read_csv("proyecto_data_analytics/src/streamlit/df_corregido.csv")
+df = pd.read_csv("df_corregido.csv")
 st.dataframe(df)
 print('\n')
 
 st.header("Partidos de México")
-df_mexico = pd.read_csv("proyecto_data_analytics/src/streamlit/partidos_mex.csv") 
+df_mexico = pd.read_csv("partidos_mex.csv") 
 df_mexico.columns=["year","country","city","stage","home_team","away_team","home_score","away_score","outcome","winning_team","losing_team","date", "month", "dayofweek", 'score_mexico', 'opponent_mex'] 
 st.dataframe(df_mexico)
 print('\n')
